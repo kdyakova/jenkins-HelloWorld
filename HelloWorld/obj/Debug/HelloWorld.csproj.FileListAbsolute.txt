@@ -10,3 +10,9 @@ C:\WIP\Hello\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
 C:\WIP\Hello\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
 C:\WIP\Hello\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
 C:\WIP\Hello\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+D:\programi\jenkins\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\programi\jenkins\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\programi\jenkins\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\programi\jenkins\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\programi\jenkins\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\programi\jenkins\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
